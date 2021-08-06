@@ -115,7 +115,7 @@ const config: MenuEntry[] = [
       {
         label: 'Github',
         href: 'https://github.com/BabeSwap',
-      },
+      }
       // {
       //   label: 'Docs',
       //   href: '/',
