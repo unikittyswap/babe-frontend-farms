@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: '/',
+        href: 'http://exchange.babeswap.io/#/swap',
       },
       {
         label: 'Liquidity',
-        href: '/',
+        href: 'http://exchange.babeswap.io/#/pool',
       },
     ],
   },
@@ -59,28 +59,28 @@ const config: MenuEntry[] = [
   //     },
   //   ],
 //  },
-  {
-    label: 'Info',
-    icon: 'InfoIcon',
-    items: [
-      {
-        label: 'Overview',
-        href: '/',
-      },
-      {
-        label: 'Tokens',
-        href: '/',
-      },
-      {
-        label: 'Pairs',
-        href: '/',
-      },
-      {
-        label: 'Accounts',
-        href: '/',
-      },
-    ],
-  },
+  // {
+  //   label: 'Info',
+  //   icon: 'InfoIcon',
+  //   items: [
+  //     {
+  //       label: 'Overview',
+  //       href: 'http://104.248.196.168:8081',
+  //     },
+  //     {
+  //       label: 'Tokens',
+  //       href: 'http://104.248.196.168:8081',
+  //     },
+  //     {
+  //       label: 'Pairs',
+  //       href: 'http://104.248.196.168:8081',
+  //     },
+  //     {
+  //       label: 'Accounts',
+  //       href: 'http://104.248.196.168:8081',
+  //     },
+  //   ],
+  // },
   // {
   //   label: 'IFO',
   //   icon: 'IfoIcon',
@@ -108,6 +108,20 @@ const config: MenuEntry[] = [
   //     },
   //   ],
   // },
+  {
+    label: 'More',
+    icon: 'MoreIcon',
+    items: [
+      {
+        label: 'Github',
+        href: 'https://github.com/BabeSwap',
+      },
+      // {
+      //   label: 'Docs',
+      //   href: '/',
+      // }
+    ],
+  },
 ]
 
 export default config

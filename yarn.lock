@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@babefinance/uikit@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@babefinance/uikit/-/uikit-0.0.2.tgz#973a1d809c803dca4703d0308ab0e731aa33ac40"
-  integrity sha512-FALwYojoIw1XK+ybRad+qg0SBK6jyqwCn6fTqKOz1mB+Lry4GHLR58Hgt0D52/X+/h7LgL0W8iMomRmSzD0kkg==
+"@babefinance/uikit@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@babefinance/uikit/-/uikit-0.0.4.tgz#7f0714803c226689f1e131a741f45932f0b02ece"
+  integrity sha512-8Iv70D3zvs9BbkarzwjzvJMOxaXF6nyl14+LkB4WYSBZnG8X/u1nixZmfi/l6oTXxf5TjDk5EjA5DzUayq8+pg==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
@@ -6281,9 +6281,9 @@ eth-sig-util@^1.4.2:
     ethereumjs-util "^5.1.1"
 
 ethereum-bloom-filters@^1.0.6:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/ethereum-bloom-filters/-/ethereum-bloom-filters-1.0.9.tgz#4a59dead803af0c9e33834170bd7695df67061ec"
-  integrity sha512-GiK/RQkAkcVaEdxKVkPcG07PQ5vD7v2MFSHgZmBJSfMzNRHimntdBithsHAT89tAXnIpzVDWt8iaCD1DvkaxGg==
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/ethereum-bloom-filters/-/ethereum-bloom-filters-1.0.10.tgz#3ca07f4aed698e75bd134584850260246a5fed8a"
+  integrity sha512-rxJ5OFN3RwjQxDcFP2Z5+Q9ho4eIdEmSc2ht0fCu8Se9nbXjZ7/031uXoUYJ87KHCOdVeiUuwSnoS7hmYAGVHA==
   dependencies:
     js-sha3 "^0.8.0"
 
@@ -11748,7 +11748,7 @@ react-router@5.2.0:
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
 
-react-scripts@^4.0.1:
+react-scripts@^4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/react-scripts/-/react-scripts-4.0.3.tgz#b1cafed7c3fa603e7628ba0f187787964cb5d345"
   integrity sha512-S5eO4vjUzUisvkIPB7jVsKtuH2HhWcASREYWHAQ1FP5HyCv3xgn+wpILAEWkmy+A+tTNbSZClhxjT3qz6g4L1A==
